@@ -14,6 +14,7 @@ import video from "../../assets/hero-buttons/video.png";
 import monitor from "../../assets/hero-buttons/monitor.png";
 import ball from "../../assets/hero-buttons/ball.png";
 import HeroButton from "./Hero-Buttons/HeroButton";
+import { useState } from "react";
 
 const heroFeatures = [
   {
