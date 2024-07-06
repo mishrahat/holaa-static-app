@@ -1,0 +1,21 @@
+.hero-feature {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: rgba(226, 226, 226, 1);
+  width: 150px;
+  height: 46px;
+  border-radius: 70px;
+  border: 1px solid;
+  background: linear-gradient(
+    132.73deg,
+    rgba(255, 255, 255, 0.27) 12.14%,
+    rgba(255, 255, 255, 0.09) 86.99%
+  );
+  padding: 15px 16px;
+}
+
+.hero-feature img {
+  width: 16px;
+  height: 16px;
+}

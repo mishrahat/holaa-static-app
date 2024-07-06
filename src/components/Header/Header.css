@@ -1,0 +1,11 @@
+.container {
+  max-width: 90vw;
+  margin: 0 auto;
+}
+
+.header-primary {
+  background-image: url("../../assets/hero-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 9rem;
+}

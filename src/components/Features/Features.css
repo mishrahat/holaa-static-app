@@ -1,0 +1,12 @@
+.features {
+  background: linear-gradient(95.04deg, #181818 7.27%, #151515 99.21%);
+  max-width: 1650px;
+  height: 454px;
+  border-radius: 50px;
+  position: relative;
+  top: -40px;
+  margin-inline: auto;
+  display: flex;
+  justify-content: space-around;
+  padding-inline: 2rem;
+}

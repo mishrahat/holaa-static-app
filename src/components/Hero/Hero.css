@@ -1,0 +1,86 @@
+.hero-icons {
+  margin-top: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10rem;
+}
+
+.hero-side-icon-one {
+  width: 20px;
+  height: 56px;
+}
+
+.hero-side-icon-two {
+  width: 83px;
+  height: 48px;
+}
+
+.hero-side-icon-three {
+  width: 30.56px;
+  height: 150px;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.hero-title {
+  font-family: Big Shoulders Display;
+  font-size: 150px;
+  font-weight: 900;
+  line-height: 155px;
+  text-align: left;
+
+  color: rgba(255, 255, 255, 1);
+}
+
+.hero-title_description {
+  color: rgba(153, 153, 153, 1);
+  margin-top: 1.5rem;
+  font-size: 22px;
+}
+
+.hero-details_buttons {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.hero_feature-layout {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 95px;
+  height: 611.35px;
+  border-radius: 60px;
+  opacity: 50%;
+  background: linear-gradient(
+    179.62deg,
+    rgba(255, 255, 255, 0.49) 0.11%,
+    rgba(255, 255, 255, 0.1) 0.12%,
+    rgba(255, 255, 255, 0.11) 99.89%
+  );
+}
+
+.hero-secondary {
+  display: flex;
+  align-items: self-end;
+  gap: 4rem;
+  margin-bottom: 9rem;
+}

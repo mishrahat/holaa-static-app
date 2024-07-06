@@ -1,0 +1,51 @@
+.releases-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.releases-title p {
+  font-family: Big Shoulders Display;
+  font-size: 50px;
+  font-weight: 900;
+  line-height: 60px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.releases-title img {
+  width: 34.85px;
+  height: 40.05px;
+}
+
+.releases-arrows {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.arrow {
+  width: 54.43px;
+  height: 54.5px;
+  top: 1570px;
+  left: 1699px;
+  gap: 0px;
+  border: 2.8px 0px 0px 0px;
+  opacity: 0px;
+  border-radius: 50%;
+  border: 2.8px solid rgba(255, 255, 255, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrow img {
+  width: 22.33px;
+  height: 16.23px;
+}
+
+.films {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
